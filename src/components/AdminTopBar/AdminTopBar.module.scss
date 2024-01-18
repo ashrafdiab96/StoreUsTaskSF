@@ -1,0 +1,45 @@
+.TopBar {
+    height: 70px;
+    // background-color: var(--bg3);
+    background-color: var(--c27);
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 30px;
+    .user {
+      display: flex;
+      width: 285px;
+      height: 100%;
+      padding: 18px;
+      // background-color: var(--bg2);
+      background-color: var(--c26);
+      align-items: center;
+      border: none;
+      cursor: pointer;
+      img {
+        width: 34px;
+        height: 34px;
+        object-fit: cover;
+        border-radius: 100%;
+      }
+      div{
+        margin-inline-start: 8px;
+        h3{
+          font-size: 14px;
+          font-weight: 400;
+          text-transform: capitalize;
+        }
+        p {
+          font-weight: 300;
+          color: var(--tx2);
+          font-size: 12px;
+          margin: 0 !important;
+        }
+      }
+      svg{
+        margin-inline-start: auto;
+        transform: rotate(90deg);
+      }
+    }
+  }
+  

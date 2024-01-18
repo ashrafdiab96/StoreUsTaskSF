@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" viewBox="0 0 18 18">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_148718" data-name="Rectangle 148718" width="18" height="18" transform="translate(18 14)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Mask_Group_474" data-name="Mask Group 474" transform="translate(-18 -14)" clip-path="url(#clip-path)">
+    <g id="Layer_2_00000149340216025451075240000016530975365711904165_" transform="translate(18 14)">
+      <g id="Layer_1_copy_4" transform="translate(0.986 0.986)">
+        <g id="_23" transform="translate(0 0)">
+          <path id="Path_85260" data-name="Path 85260" d="M14.706,17.408H1.321A1.321,1.321,0,0,1,0,16.087V13.917A1.321,1.321,0,0,1,1.321,12.6H14.7a1.321,1.321,0,0,1,1.321,1.321v2.169A1.317,1.317,0,0,1,14.706,17.408ZM1.321,13.019a.9.9,0,0,0-.9.9v2.169a.9.9,0,0,0,.9.9H14.7a.9.9,0,0,0,.9-.9V13.914a.9.9,0,0,0-.9-.9Z" transform="translate(0 -1.38)" fill="#1b1d21" stroke="#1b1d21" stroke-width="0.3"/>
+          <path id="Path_85261" data-name="Path 85261" d="M9.009,4.814H1.321A1.321,1.321,0,0,1,0,3.493V1.321A1.321,1.321,0,0,1,1.321,0H9.006A1.322,1.322,0,0,1,10.33,1.321V3.49A1.322,1.322,0,0,1,9.009,4.814ZM1.321.426a.9.9,0,0,0-.9.9V3.49a.9.9,0,0,0,.9.9H9.006a.9.9,0,0,0,.9-.9V1.321a.9.9,0,0,0-.9-.9Z" transform="translate(0 0)" fill="#1b1d21" stroke="#1b1d21" stroke-width="0.3"/>
+          <path id="Path_85262" data-name="Path 85262" d="M16.087,10.421H13.917A1.321,1.321,0,0,1,12.6,9.1V1.321A1.321,1.321,0,0,1,13.917,0h2.169a1.321,1.321,0,0,1,1.321,1.321V9.1a1.322,1.322,0,0,1-1.321,1.324Zm-2.172-10a.9.9,0,0,0-.9.9V9.1a.9.9,0,0,0,.9.9h2.169a.9.9,0,0,0,.9-.9V1.321a.9.9,0,0,0-.9-.9Z" transform="translate(-1.38 0)" fill="#1b1d21" stroke="#1b1d21" stroke-width="0.3"/>
+          <path id="Path_85263" data-name="Path 85263" d="M9.009,11.111H1.321A1.321,1.321,0,0,1,0,9.79V7.621A1.321,1.321,0,0,1,1.321,6.3H9.006a1.321,1.321,0,0,1,1.321,1.321V9.79A1.317,1.317,0,0,1,9.009,11.111ZM1.321,6.723a.9.9,0,0,0-.9.9V9.787a.9.9,0,0,0,.9.9H9.006a.9.9,0,0,0,.9-.9V7.618a.9.9,0,0,0-.9-.9Z" transform="translate(0 -0.69)" fill="#1b1d21" stroke="#1b1d21" stroke-width="0.3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

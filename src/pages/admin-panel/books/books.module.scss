@@ -1,0 +1,62 @@
+.main {
+
+    .data {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: start;
+        width: 95%;
+        margin: auto;
+
+        .addBtn {
+            width: 80px;
+            height: 30px;
+            cursor: pointer;
+            border: 1px solid #E0E0E0;
+            margin: 0 10px;
+            background-color: #28a745;
+            color: #FFFFFF !important;
+            margin: 10px auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        table {
+            
+            thead {
+            
+                th {
+                    padding: 10px;
+                }
+            }
+
+            tbody {
+
+                tr {
+
+                    th {
+
+                        .editBtn,
+                        .removeBtn {
+                            padding: 5px 20px;
+                            cursor: pointer;
+                            border: 1px solid #E0E0E0;
+                            margin: 0 10px;
+                        }
+
+                        .editBtn {
+                            background-color: #ffc107;
+                            color: #FFFFFF !important;
+                        }
+
+                        .removeBtn {
+                            background-color: #dc3545;
+                            color: #FFFFFF !important;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

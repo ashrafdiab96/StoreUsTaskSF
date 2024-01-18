@@ -1,0 +1,59 @@
+.modal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .box {
+        width: 350px;
+        background-color: #FFFFFF;
+        height: 120px;
+        border-radius: 10px;
+        border: 0;
+        outline: none;
+
+        .typography {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+            height: 100%;
+
+            .text {
+                color: #707070 !important;
+                font-size: 15px;
+            }
+
+            .buttons {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                gap: 20px;
+
+                .yes {
+                    border: 0;
+                    background-color: #dc3545;
+                    color: #FFFFFF !important;
+                    width: 80px;
+                    height: 30px;
+                    font-size: 14px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                }
+    
+                .no {
+                    border: 0;
+                    background-color: #17a2b8;
+                    color: #FFFFFF !important;
+                    width: 80px;
+                    height: 30px;
+                    font-size: 14px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+                }
+            }
+        }
+    }
+}

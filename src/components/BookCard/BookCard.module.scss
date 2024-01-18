@@ -1,0 +1,66 @@
+.card {
+    width: 280px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: #444654;
+    border-radius: 10px;
+    transition: all 0.3s;
+    cursor: pointer;
+
+    .content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        transition: all 0.3s;
+
+        .icon,
+        .iconCorrect {
+            width: 30px;
+            height: 30px;
+            line-height: 30px;
+            border-radius: 50%;
+            border: 5px solid red;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: #FFFFFF !important;
+
+            .iconSvg {
+                width: 20px;
+                height: 20px;
+            }
+        }
+
+        .icon {
+            border: 5px solid red;
+        }
+
+        .iconCorrect {
+            border: 5px solid green;
+        }
+
+        .support {
+            color: #FFFFFF !important;
+        }
+    
+        .name {
+            font-family: Avenir;
+            font-weight: 600;
+            font-size: 24px;
+            color: #FFFFFF !important;
+        }
+    }
+
+    .img {
+        width: 200px;
+        height: 160px;
+        border-radius: 10px;
+        transition: all 0.3s;
+    }
+}
